@@ -1,2 +1,2 @@
 # PythonProjects
- A folder with all notworthy projects made by me in python.
+ A repository with all notworthy projects made by me in python.
